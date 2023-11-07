@@ -51,6 +51,12 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
+main h1 {
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
+}
 main h2 {
 	color: #800000;
 	font-size: 130%;
