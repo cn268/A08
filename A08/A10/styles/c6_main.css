@@ -96,6 +96,7 @@ article img {
 	margin: 10px 20px 0px 10px;
 	border: 1px solid black;
 	float: right;
+	padding-bottom: 0;
 }
 article h3 {
 	font-size: 105%;
